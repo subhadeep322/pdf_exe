@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Book PDF Downloader",
+  "version": "1.0",
+  "description": "Download any book available in the internet as a PDF for free.",
+  "permissions": [
+    "activeTab", 
+    "scripting",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://*/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
