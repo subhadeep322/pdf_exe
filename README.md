@@ -3,6 +3,7 @@
 ![Uploading image.png…]()
 
 
+
 A simple Chrome Extension to download any web page, article, or online book as a PDF file directly to your computer.
 
 This tool is designed to save a local copy of content you can already see in your browser. It works by taking a snapshot of the fully loaded page and converting it into a single PDF file.
@@ -35,8 +36,6 @@ Since this extension is not on the Chrome Web Store, you need to install it manu
 3.  **Open Chrome Extensions**: Open Google Chrome and navigate to `chrome://extensions`.
 
 4.  **Enable Developer Mode**: In the top-right corner of the extensions page, turn on the **Developer mode** switch.
-
-    ![Enable Developer Mode](https://i.imgur.com/g239s1g.png)
 
 5.  **Load the Extension**: Click the **Load unpacked** button that appears on the top-left.
 
